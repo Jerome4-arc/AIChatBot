@@ -1,4 +1,4 @@
-# AIChatBot
+# LAMP AI 1.0
 A chatbot that uses Groq API, Very lightweight code and can be run anywhere.
 
 WARNING: 
